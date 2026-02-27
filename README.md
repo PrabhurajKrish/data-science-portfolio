@@ -13,7 +13,7 @@ Python | SQL | TensorFlow | Databricks | SHAP | Power BI
 **Outcome:** Identified a 15–20% high-risk cohort predictable at 79% precision, modelling a 4.5 percentage point return rate uplift. Findings informed intervention design and a major NHS contract bid.  
 **Tools:** Python, Databricks, Random Forest, SHAP, Power BI  
 
-📄 [View Report](Predictors for Non-returns Report .pdf)
+📄 [View Report]([Predictors for Non-returns Report .pdf](https://github.com/PrabhurajKrish/data-science-portfolio/blob/main/Predictors%20for%20Non-returns%20Report%20.pdf))
 
 ---
 
