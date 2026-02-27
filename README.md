@@ -43,4 +43,4 @@ Python | SQL | TensorFlow | Databricks | SHAP | Power BI
 ---
 
 📧 prabhuraj.krishnamoorthy@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/prabhurajkrishnamoorthy)
+🔗 [LinkedIn - prabhurajkrishnamoorthy](https://www.linkedin.com/in/prabhuraj-krishnamoorthy-64720639/))
