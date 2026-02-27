@@ -25,7 +25,7 @@ Python | SQL | TensorFlow | Databricks | SHAP | Power BI
 **Outcome:** Improved forecast accuracy by 20%. Findings used as evidence in a Pan-London NHS contract bid to prioritise outreach in underserved communities.  
 **Tools:** Python, TensorFlow, K-Means, Databricks, ONS/IMD data, Power BI  
 
-📄 [View Report](./Hidden_Demand_Analysis_SH24.pdf)
+📄 [View Report](https://github.com/PrabhurajKrish/data-science-portfolio/blob/main/Hidden_demand_Analysis.pdf)
 
 ---
 
